@@ -1,4 +1,24 @@
-// SPDX-License-Identifier: AGPL-3.0-only
+ // Fatigue Graph v0.2.0 — unofficial oss!idle add-on
+ // SPDX-License-Identifier: AGPL-3.0-only
+ //
+ // Copyright (c) 2026 Not-Akagi
+ //
+ // Original add-on implementation by Not-Akagi.
+ // https://github.com/Not-Akagi/oss-idle-addons
+ //
+ // Contains fatigue and warm-up calculations adapted from
+ // oss!idle, developed by Adri and contributors.
+ //
+ // Original source:
+ // https://github.com/oss-idle/oss-idle
+ //
+ // Portions of the fatigue and warm-up calculations are
+ // adapted from the AGPL-3.0-licensed oss!idle source.
+ // Modified and integrated into Fatigue Graph by Not-Akagi, 2026.
+ //
+ // Licensed under the GNU Affero General Public License v3.0 only.
+ // See the repository's LICENSE.md for the full license text.
+
 // Fatigue Graph 0.2.0. Read-only API GETs; no gameplay commands or game DB writes.
 // Report-only metrics verified against oss!idle v1.2.4.0 fatigue.ts and
 // warmupStage.ts. These helpers never update records or gameplay state.
