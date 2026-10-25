@@ -17,7 +17,7 @@
  // Modified and integrated into Fatigue Graph by Not-Akagi, 2026.
  //
  // Licensed under the GNU Affero General Public License v3.0 only.
- // See the repository's LICENSE.md for the full license text.
+ // See LICENSES/AGPL-3.0-only.txt for the full license text.
 
 // Fatigue Graph 0.2.0. Read-only API GETs; no gameplay commands or game DB writes.
 // Report-only metrics verified against oss!idle v1.2.4.0 fatigue.ts and
